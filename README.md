@@ -1,4 +1,4 @@
-# ProvaPraticaPM-POO ( Programação Orientada a Objetos )
+# ProvaPratica-POO ( Programação Orientada a Objetos )
 
 Prova do dia 28/09/2026 de Programação Modular envolvendo POO
 
